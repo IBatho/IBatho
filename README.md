@@ -1,4 +1,4 @@
-## Hi there 👋
+## I’m currently working on my Startup Praxeus which pools different data sources in the manufacturing space to train AI models which will run factories. This will use continual learning from real world data to constantly improve.
 
 <!--
 **IBatho/IBatho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
